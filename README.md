@@ -22,6 +22,7 @@
 ## 🛠 Habilidades & Ferramentas
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+- ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 - ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 
 ## 📫 Contato
