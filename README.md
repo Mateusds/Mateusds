@@ -25,6 +25,15 @@
 - ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
 - ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 
+## 💡 Skills & Tools
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
+- ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
+- ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
+- ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
+- ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
+- ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
+- ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+
 ## 📫 Contato
 - 📧 Email: mateusmarquesds@gmail.com
 
