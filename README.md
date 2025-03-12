@@ -25,6 +25,6 @@
 - ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 
 ## 📫 Contato
-- 📧 Email: mateusmarquesds@gmail.com (mailto:mateusmarquesds@gmail.com)
+- 📧 Email: mateusmarquesds@gmail.com
 
 
