@@ -1,6 +1,6 @@
 # Olá, sou Mateus Marques 👋  
 
-💻 Desenvolvedor [Front-end | Back-end | Mobile]  
+💻 Desenvolvedor Júnior [Front-end | Back-end | Mobile]
 📍 De [Alagoas, Brasil]  
 🚀 Apaixonado por tecnologia e inovação  
 
