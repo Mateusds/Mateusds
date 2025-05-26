@@ -36,7 +36,7 @@
 
 Hello, I’m Mateus Marques 👋
 
-💻 Developer [Front-end | Back-end | Mobile]
+💻 Junior Developer [Front-end | Back-end | Mobile]
 📍 From [Alagoas, Brazil]
 🚀 Passionate about technology and innovation
 
