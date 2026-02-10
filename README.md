@@ -24,7 +24,7 @@ No meu dia a dia, trabalho construindo interfaces web e mobile, integrando com b
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Mateus-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Mateus-Expo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Expo_Entypo_Logo.svg">
+  <img align="center" alt="Mateus-Expo" height="30" width="40" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg">
   <img align="center" alt="Mateus-Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
   <img align="center" alt="Mateus-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -40,14 +40,6 @@ No meu dia a dia, trabalho construindo interfaces web e mobile, integrando com b
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📊 Estatísticas do GitHub:
-<div align="center">
-  <a href="https://github.com/Mateusds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateusds&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusds&layout=compact&theme=dark"/>
-  </a>
-</div>
 
 ## 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mateus-marques-a50a19113/) 
