@@ -1,50 +1,69 @@
-# Olá, sou Mateus Marques 👋  
+# Olá, sou Mateus Marques 👋
 
-💻 Desenvolvedor Júnior [Front-end | Back-end | Mobile]
-📍 De [Alagoas, Brasil]  
-🚀 Apaixonado por tecnologia e inovação  
+💻 Desenvolvedor [Front-end | Mobile | Full Stack]
+📍 De [Alagoas, Brasil]
+🚀 Apaixonado por tecnologia e inovação. Foco em criar aplicações modernas e performáticas.
 
-## 🔧 Tecnologias que utilizo:
-- ⚛️ React / React Native  
-- 🔥 Firebase  
-- 🐘 PHP
-- 📜 JavaScript  
-- 🎨 HTML & CSS  
+## 🛠 Tecnologias que utilizo:
 
-## 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mateus-marques-a50a19113/) 
+No meu dia a dia, trabalho construindo interfaces web e mobile, integrando com backends poderosos como Supabase e Firebase.
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Mateusds/)
+### ⚡ Principais Stacks:
+- **Web:** ⚛️ React.js | Next.js
+- **Mobile:** 📱 React Native
+- **Backend / BaaS:** 🟢 Supabase | 🔥 Firebase | 🐘 PHP
+- **Linguagens:** 📜 JavaScript | 🎨 HTML & CSS
+
+---
+
+## 🚀 Habilidades & Ferramentas
+
+<div style="display: inline_block">
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="Mateus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Mateus-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Mateus-Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
+  <img align="center" alt="Mateus-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+  <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+</div>
+
+<br/>
+
+### Badges Detalhadas:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## 📊 Estatísticas do GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Mateusds&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusds&layout=compact&theme=dark)
+<div align="center">
+  <a href="https://github.com/Mateusds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateusds&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateusds&layout=compact&theme=dark"/>
+  </a>
+</div>
 
-## 🛠 Habilidades & Ferramentas
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
-- ![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react)
-- ![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
-- ![React Native](https://img.shields.io/badge/-React%20Native-000?style=for-the-badge&logo=react)
-- ![Firebase](https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=firebase)
-- ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-- ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
+## 📫 Como me encontrar:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/mateus-marques-a50a19113/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusmarquesds@gmail.com)
 
-## 📫 Contato
-- 📧 Email: mateusmarquesds@gmail.com
+---
 
---- English Version --- 
+### 🇺🇸 English Version
 
-Hello, I’m Mateus Marques 👋
+**Hello, I’m Mateus Marques** 👋
 
-💻 Junior Developer [Front-end | Back-end | Mobile]
+💻 Developer [Front-end | Mobile | Full Stack]
 📍 From [Alagoas, Brazil]
-🚀 Passionate about technology and innovation
+🚀 Passionate about technology. Focused on React ecosystem and Modern Backends.
 
-🔧 Technologies I Use:
-	•	⚛️ React / React Native
-	•	🔥 Firebase
-	•	🐘 PHP
-	•	📜 JavaScript
-	•	🎨 HTML & CSS
-
-....
+**🔧 Technologies I Use:**
+* ⚛️ **React / React Native**
+* ⚡ **Next.js**
+* 🟢 **Supabase** & 🔥 **Firebase**
+* 🐘 **PHP**
+* 📜 **JavaScript**
