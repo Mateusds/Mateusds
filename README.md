@@ -1,6 +1,6 @@
 # Olá, sou Mateus Marques 👋
 
-💻 Desenvolvedor [Front-end | Mobile | Full Stack]
+💻 Desenvolvedor [Front-end | Mobile]
 📍 De [Alagoas, Brasil]
 🚀 Apaixonado por tecnologia e inovação. Foco em criar aplicações modernas e performáticas.
 
@@ -10,7 +10,7 @@ No meu dia a dia, trabalho construindo interfaces web e mobile, integrando com b
 
 ### ⚡ Principais Stacks:
 - **Web:** ⚛️ React.js | Next.js
-- **Mobile:** 📱 React Native
+- **Mobile:** 📱 React Native | Expo
 - **Backend / BaaS:** 🟢 Supabase | 🔥 Firebase | 🐘 PHP
 - **Linguagens:** 📜 JavaScript | 🎨 HTML & CSS
 
@@ -24,6 +24,7 @@ No meu dia a dia, trabalho construindo interfaces web e mobile, integrando com b
   <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Mateus-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Mateus-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Mateus-Expo" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Expo_Entypo_Logo.svg">
   <img align="center" alt="Mateus-Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg">
   <img align="center" alt="Mateus-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
@@ -34,6 +35,7 @@ No meu dia a dia, trabalho construindo interfaces web e mobile, integrando com b
 ### Badges Detalhadas:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
@@ -57,12 +59,13 @@ No meu dia a dia, trabalho construindo interfaces web e mobile, integrando com b
 
 **Hello, I’m Mateus Marques** 👋
 
-💻 Developer [Front-end | Mobile | Full Stack]
+💻 Developer [Front-end | Mobile]
 📍 From [Alagoas, Brazil]
 🚀 Passionate about technology. Focused on React ecosystem and Modern Backends.
 
 **🔧 Technologies I Use:**
 * ⚛️ **React / React Native**
+* 📱 **Expo**
 * ⚡ **Next.js**
 * 🟢 **Supabase** & 🔥 **Firebase**
 * 🐘 **PHP**
