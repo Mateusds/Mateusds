@@ -1,8 +1,12 @@
 # Olá, sou Mateus Marques 👋
 
-💻 **Desenvolvedor Full Stack Júnior | Mobile**
-📍 **Maceió, Alagoas**
-🚀 **Entusiasta de tecnologia focado em construir aplicações funcionais e em aprender constantemente sobre o ciclo completo de desenvolvimento.**
+- 💻 **Desenvolvedor Full Stack Júnior | Mobile**
+- 📍 **Maceió, Alagoas**
+- 🚀 **Entusiasta de tecnologia focado em construir aplicações funcionais e em aprender constantemente sobre o ciclo completo de desenvolvimento.**
+
+---
+
+## 🛠️ No meu arsenal técnico:
   
 ## 🛠 No meu arsenal técnico:
 
