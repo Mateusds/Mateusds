@@ -1,6 +1,9 @@
 # Olá, sou Mateus Marques 👋
 
-💻 **Desenvolvedor Full Stack Júnior | Mobile** 📍 **De Alagoas, Brasil** 🚀 **Entusiasta de tecnologia focado em construir aplicações funcionais e em aprender constantemente sobre o ciclo completo de desenvolvimento.**
+💻 **Desenvolvedor Full Stack Júnior | Mobile**
+📍 **Maceió, Alagoas**
+🚀 **Entusiasta de tecnologia focado em construir aplicações funcionais e em aprender constantemente sobre o ciclo completo de desenvolvimento.**
+  
 ## 🛠 No meu arsenal técnico:
 
 Tenho como base o ecossistema **React** e **TypeScript**, mas sou do tipo que pesquisa e busca entender o "por trás das câmeras" para garantir que o projeto vá ao ar com qualidade.
