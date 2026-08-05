@@ -33,6 +33,7 @@ Tenho como base o ecossistema **React** e **TypeScript**, mas sou do tipo que pe
   <img align="center" alt="Mateus-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Mateus-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Mateus-Portainer" height="30" width="40" src="https://cdn.simpleicons.org/portainer/13BEF9">
 </div>
 
 <br/>
