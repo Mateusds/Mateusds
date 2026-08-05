@@ -15,7 +15,7 @@ Tenho como base o ecossistema **React** e **TypeScript**, mas sou do tipo que pe
 * **Linguagens:** 📘 TypeScript | 📜 JavaScript | 🐘 PHP
 * **Backend & DB:** 🟢 PostgreSQL (Prisma) | 🟢 Supabase | 🐬 MySQL
 * **Integrações & Chatbots:** 🤖 SDKs de plataformas de chatbot (BLiP) | Integração com APIs de terceiros (biometria, pagamentos, verificação de identidade)
-* **Infra (Aprendizado & Pesquisa):** 🐳 Docker & Docker Compose | ☁️ AWS (EC2, S3, RDS) | ⚙️ Nginx | Traefik | CI/CD (GitLab CI)
+* **Infra (Aprendizado & Pesquisa):** 🐳 Docker & Docker Compose | 🅿️ Portainer | ☁️ AWS (EC2, S3, RDS) | ⚙️ Nginx | Traefik | CI/CD (GitLab CI)
   > *Não sou especialista em DevOps, mas busco autonomia para configurar ambientes, orquestrar múltiplos serviços com Docker Compose, gerenciar servidores via terminal e realizar deploys através de muita pesquisa.*
 
 ---
@@ -32,6 +32,7 @@ Tenho como base o ecossistema **React** e **TypeScript**, mas sou do tipo que pe
   <img align="center" alt="Mateus-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Mateus-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Mateus-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Mateus-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
 </div>
 
 <br/>
@@ -59,6 +60,7 @@ Para mim, o **TypeScript** não é apenas um "extra", é a base para o desenvolv
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
