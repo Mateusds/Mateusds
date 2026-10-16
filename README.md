@@ -2,8 +2,6 @@
 
 <img src="hero.svg" alt="Mateus Marques — Desenvolvedor Full Stack" width="100%"/>
 
-<br/><br/>
-
 <img src="sec-sobre.svg" alt="Sobre mim" width="100%"/>
 
 <img src="about.svg" alt="Desenvolvedor Full Stack Júnior de Maceió, com foco em web e mobile, atuando no setor de saúde" width="100%"/>
