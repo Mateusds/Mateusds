@@ -1,22 +1,22 @@
 <!-- Troque Mateusds pelo seu usuário do GitHub. Os SVGs ficam em assets/ no mesmo repositório. -->
 
-<img src="assets/hero.svg" alt="Mateus Marques — Desenvolvedor Full Stack" width="100%"/>
+<img src="hero.svg" alt="Mateus Marques — Desenvolvedor Full Stack" width="100%"/>
 
 <br/><br/>
 
-<img src="assets/sec-faco.svg" alt="O que eu faço" width="100%"/>
+<img src="sec-faco.svg" alt="O que eu faço" width="100%"/>
 
-<img src="assets/cards.svg" alt="Chatbots, verificação facial, telemedicina, dashboards, infra e redesign" width="100%"/>
-
-<br/>
-
-<img src="assets/sec-stack.svg" alt="Stack" width="100%"/>
-
-<img src="assets/stack.svg" alt="Tecnologias que uso" width="100%"/>
+<img src="cards.svg" alt="Chatbots, verificação facial, telemedicina, dashboards, infra e redesign" width="100%"/>
 
 <br/>
 
-<img src="assets/sec-atividade.svg" alt="Atividade" width="100%"/>
+<img src="sec-stack.svg" alt="Stack" width="100%"/>
+
+<img src="stack.svg" alt="Tecnologias que uso" width="100%"/>
+
+<br/>
+
+<img src="sec-atividade.svg" alt="Atividade" width="100%"/>
 
 <div align="center">
 
@@ -29,9 +29,9 @@
 
 <br/>
 
-<img src="assets/sec-contato.svg" alt="Contato" width="100%"/>
+<img src="sec-contato.svg" alt="Contato" width="100%"/>
 
-<img src="assets/footer.svg" alt="Vamos construir algo juntos?" width="100%"/>
+<img src="footer.svg" alt="Vamos construir algo juntos?" width="100%"/>
 
 <div align="center">
 
