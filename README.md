@@ -16,7 +16,7 @@
 
 <img src="sec-stack.svg" alt="Stack" width="100%"/>
 
-<img src="stack.svg" alt="Tecnologias que uso" width="100%"/>
+<img src="stack-logos.svg" alt="Tecnologias que uso" width="100%"/>
 
 <br/>
 
